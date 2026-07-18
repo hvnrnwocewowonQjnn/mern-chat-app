@@ -76,6 +76,6 @@ Start the Client
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 
-- [@abhishek Prajapati](https://github.com/hvnrnwocewowonQjnn)
+- [@Abhishek Prajapati](https://github.com/hvnrnwocewowonQjnn)
 
   
